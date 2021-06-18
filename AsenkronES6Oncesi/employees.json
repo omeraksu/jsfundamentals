@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Ömer Aksu",
+        "department": "Bilişim",
+        "salary": 4000
+    },
+    {
+        "name": "Muhammet Faruk Aksu",
+        "department": "Uzay Bilimleri",
+        "salary": 40000
+    },
+    {
+        "name": "Nisanur Aksu",
+        "department": "Görsel Sanatlar",
+        "salary": 52302
+    }
+]
